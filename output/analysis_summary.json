@@ -1,0 +1,21 @@
+{
+  "project": "Ugandan Telecom Services Sentiment Analysis",
+  "total_tweets": 100,
+  "sentiment_distribution": {
+    "negative": 46,
+    "positive": 38,
+    "neutral": 16
+  },
+  "positive_percentage": 38.0,
+  "negative_percentage": 46.0,
+  "neutral_percentage": 16.0,
+  "company_mentions": {
+    "mtn": 48,
+    "airtel": 51
+  },
+  "analysis_date": "2025-10-29 14:01:00",
+  "key_findings": {
+    "dominant_sentiment": "negative",
+    "recommendation_priority": "high"
+  }
+}

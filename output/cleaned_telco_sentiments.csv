@@ -1,0 +1,101 @@
+content,cleaned_text,processed_text,final_sentiment,date,username,mentions_mtn,mentions_airtel
+MTN network in Kampala is terrible today! No internet for hours #MTNUganda,mtn network in kampala is terrible today no internet for hours mtnuganda,kampala terrible today internet hours mtnuganda,negative,2024-10-20,user1,True,False
+Airtel mobile money charges are too high! When will they reduce fees?,airtel mobile money charges are too high when will they reduce fees,money charge high reduce fee,negative,2024-10-19,user2,False,True
+Very frustrated with MTN customer service. Been on hold for 30 minutes!,very frustrated with mtn customer service been on hold for minutes,frustrated customer hold minutes,negative,2024-10-18,user3,True,False
+Airtel data bundles finish too quickly. Something is wrong with their billing,airtel data bundles finish too quickly something is wrong with their billing,data bundle finish quickly something wrong billing,negative,2024-10-17,user4,False,True
+MTN network down in Entebbe area. This is becoming too frequent @MTNUganda,mtn network down in entebbe area this is becoming too frequent,entebbe area becoming frequent,neutral,2024-10-19,user5,True,False
+Great service from Airtel today! Their 4G network is super fast in Kampala,great service from airtel today their g network is super fast in kampala,great today super fast kampala,positive,2024-10-18,user6,False,True
+MTN mobile money saved me today! Easy and quick transaction. #MoMo,mtn mobile money saved me today easy and quick transaction momo,money saved today easy quick transaction momo,negative,2024-10-17,user7,True,False
+Airtel customer care was very helpful with my SIM swap. Thank you!,airtel customer care was very helpful with my sim swap thank you,customer care helpful sim swap,positive,2024-10-19,user8,False,True
+MTN double data promo is amazing! Great value for money,mtn double data promo is amazing great value for money,double data promo amazing great value money,positive,2024-10-16,user9,True,False
+Airtel network improvement in Gulu is noticeable. Good work!,airtel network improvement in gulu is noticeable good work,improvement gulu noticeable good work,positive,2024-10-18,user10,False,True
+Just bought a new Airtel SIM card in Kampala,just bought a new airtel sim card in kampala,bought new sim card kampala,positive,2024-10-19,user11,False,True
+MTN is having a promotion on data bundles this week,mtn is having a promotion on data bundles this week,promotion data bundle week,neutral,2024-10-17,user12,True,False
+Airtel Uganda announced new CEO today,airtel uganda announced new ceo today,announced new ceo today,negative,2024-10-18,user13,False,True
+Mobile money transactions increased by 20% according to UCC report,mobile money transactions increased by according to ucc report,money transaction increased according ucc report,negative,2024-10-16,user14,False,False
+Bad experience with Airtel coverage in Mbarara. Very poor service!,bad experience with airtel coverage in mbarara very poor service,bad experience coverage mbarara poor,negative,2024-10-15,user_15,False,True
+Airtel signal service in Entebbe. Average experience.,airtel signal service in entebbe average experience,signal entebbe average experience,neutral,2024-09-27,user_16,False,True
+Using MTN signal in Fort Portal. Regular service.,using mtn signal in fort portal regular service,use signal fort portal regular,neutral,2024-10-04,user_17,True,False
+Airtel coverage in Mbarara is not working properly. So annoying!,airtel coverage in mbarara is not working properly so annoying,coverage mbarara work properly annoying,negative,2024-10-07,user_18,False,True
+Using Airtel signal in Gulu. Regular service.,using airtel signal in gulu regular service,use signal gulu regular,neutral,2024-10-07,user_19,False,True
+Frustrated with MTN mobile money in Entebbe. Needs improvement!,frustrated with mtn mobile money in entebbe needs improvement,frustrated money entebbe needs improvement,negative,2024-09-27,user_20,True,False
+MTN internet in Mbarara is okay. Normal performance.,mtn internet in mbarara is okay normal performance,internet mbarara okay normal performance,positive,2024-09-24,user_21,True,False
+MTN internet in Fort Portal is okay. Normal performance.,mtn internet in fort portal is okay normal performance,internet fort portal okay normal performance,positive,2024-10-01,user_22,True,False
+Airtel mobile money service in Mbarara. Average experience.,airtel mobile money service in mbarara average experience,money mbarara average experience,neutral,2024-10-19,user_23,False,True
+MTN mobile money in Lira is amazing! Keep it up!,mtn mobile money in lira is amazing keep it up,money lira amazing keep,positive,2024-10-15,user_24,True,False
+Airtel coverage in Lira is not working properly. So annoying!,airtel coverage in lira is not working properly so annoying,coverage lira work properly annoying,negative,2024-10-04,user_25,False,True
+Checking MTN network in Entebbe. Nothing special.,checking mtn network in entebbe nothing special,checking entebbe nothing special,negative,2024-10-02,user_26,True,False
+MTN data service in Kampala. Average experience.,mtn data service in kampala average experience,data kampala average experience,neutral,2024-09-23,user_27,True,False
+Excellent mobile money experience with Airtel in Kampala. Thank you!,excellent mobile money experience with airtel in kampala thank you,excellent money experience kampala,positive,2024-10-10,user_28,False,True
+MTN data service in Mbale. Average experience.,mtn data service in mbale average experience,data mbale average experience,neutral,2024-09-25,user_29,True,False
+MTN data in Fort Portal is terrible! Very disappointed!,mtn data in fort portal is terrible very disappointed,data fort portal terrible disappointed,negative,2024-10-14,user_30,True,False
+MTN customer service in Mbarara is not working properly. So annoying!,mtn customer service in mbarara is not working properly so annoying,customer mbarara work properly annoying,negative,2024-09-21,user_31,True,False
+Frustrated with MTN data in Fort Portal. Needs improvement!,frustrated with mtn data in fort portal needs improvement,frustrated data fort portal needs improvement,negative,2024-10-04,user_32,True,False
+Great internet from Airtel in Mbale! Excellent service!,great internet from airtel in mbale excellent service,great internet mbale excellent,positive,2024-10-04,user_33,False,True
+Using MTN data in Gulu. Regular service.,using mtn data in gulu regular service,use data gulu regular,neutral,2024-09-28,user_34,True,False
+Excellent network experience with MTN in Lira. Thank you!,excellent network experience with mtn in lira thank you,excellent experience lira,positive,2024-10-16,user_35,True,False
+Great customer service from Airtel in Entebbe! Excellent service!,great customer service from airtel in entebbe excellent service,great customer entebbe excellent,positive,2024-10-16,user_36,False,True
+Excellent data experience with Airtel in Lira. Thank you!,excellent data experience with airtel in lira thank you,excellent data experience lira,positive,2024-10-18,user_37,False,True
+Bad experience with Airtel internet in Kampala. Very poor service!,bad experience with airtel internet in kampala very poor service,bad experience internet kampala poor,negative,2024-10-15,user_38,False,True
+Very happy with Airtel mobile money in Lira. Good work!,very happy with airtel mobile money in lira good work,happy money lira good work,positive,2024-10-08,user_39,False,True
+MTN customer service in Gulu is terrible! Very disappointed!,mtn customer service in gulu is terrible very disappointed,customer gulu terrible disappointed,negative,2024-10-18,user_40,True,False
+Checking Airtel coverage in Gulu. Nothing special.,checking airtel coverage in gulu nothing special,checking coverage gulu nothing special,negative,2024-09-26,user_41,False,True
+Airtel customer service in Mbale is terrible! Very disappointed!,airtel customer service in mbale is terrible very disappointed,customer mbale terrible disappointed,negative,2024-10-05,user_42,False,True
+Very happy with MTN signal in Lira. Good work!,very happy with mtn signal in lira good work,happy signal lira good work,positive,2024-10-07,user_43,True,False
+MTN mobile money in Mbale is okay. Normal performance.,mtn mobile money in mbale is okay normal performance,money mbale okay normal performance,positive,2024-09-21,user_44,True,False
+MTN coverage in Gulu is terrible! Very disappointed!,mtn coverage in gulu is terrible very disappointed,coverage gulu terrible disappointed,negative,2024-10-03,user_45,True,False
+MTN customer service in Jinja is amazing! Keep it up!,mtn customer service in jinja is amazing keep it up,customer jinja amazing keep,positive,2024-10-05,user_46,True,False
+Great pricing from Airtel in Lira! Excellent service!,great pricing from airtel in lira excellent service,great pricing lira excellent,positive,2024-09-26,user_47,False,True
+Airtel coverage in Mbale is terrible! Very disappointed!,airtel coverage in mbale is terrible very disappointed,coverage mbale terrible disappointed,negative,2024-10-01,user_48,False,True
+Great coverage from MTN in Jinja! Excellent service!,great coverage from mtn in jinja excellent service,great coverage jinja excellent,positive,2024-09-27,user_49,True,False
+Excellent coverage experience with MTN in Entebbe. Thank you!,excellent coverage experience with mtn in entebbe thank you,excellent coverage experience entebbe,positive,2024-10-17,user_50,True,False
+Frustrated with Airtel internet in Kampala. Needs improvement!,frustrated with airtel internet in kampala needs improvement,frustrated internet kampala needs improvement,negative,2024-10-05,user_51,False,True
+Bad experience with MTN signal in Mbale. Very poor service!,bad experience with mtn signal in mbale very poor service,bad experience signal mbale poor,negative,2024-10-05,user_52,True,False
+Airtel data in Jinja is not working properly. So annoying!,airtel data in jinja is not working properly so annoying,data jinja work properly annoying,negative,2024-09-25,user_53,False,True
+Bad experience with MTN mobile money in Fort Portal. Very poor service!,bad experience with mtn mobile money in fort portal very poor service,bad experience money fort portal poor,negative,2024-10-14,user_54,True,False
+Frustrated with Airtel signal in Entebbe. Needs improvement!,frustrated with airtel signal in entebbe needs improvement,frustrated signal entebbe needs improvement,negative,2024-10-15,user_55,False,True
+Very happy with MTN signal in Entebbe. Good work!,very happy with mtn signal in entebbe good work,happy signal entebbe good work,positive,2024-09-28,user_56,True,False
+Very happy with Airtel internet in Mbale. Good work!,very happy with airtel internet in mbale good work,happy internet mbale good work,positive,2024-10-12,user_57,False,True
+Airtel signal in Mbarara is amazing! Keep it up!,airtel signal in mbarara is amazing keep it up,signal mbarara amazing keep,positive,2024-10-07,user_58,False,True
+Bad experience with Airtel network in Mbale. Very poor service!,bad experience with airtel network in mbale very poor service,bad experience mbale poor,negative,2024-09-22,user_59,False,True
+MTN internet in Lira is okay. Normal performance.,mtn internet in lira is okay normal performance,internet lira okay normal performance,positive,2024-10-03,user_60,True,False
+Airtel internet in Lira is amazing! Keep it up!,airtel internet in lira is amazing keep it up,internet lira amazing keep,positive,2024-09-28,user_61,False,True
+Checking Airtel mobile money in Lira. Nothing special.,checking airtel mobile money in lira nothing special,checking money lira nothing special,negative,2024-10-17,user_62,False,True
+Checking MTN signal in Lira. Nothing special.,checking mtn signal in lira nothing special,checking signal lira nothing special,negative,2024-10-17,user_63,True,False
+MTN pricing in Fort Portal is not working properly. So annoying!,mtn pricing in fort portal is not working properly so annoying,pricing fort portal work properly annoying,negative,2024-10-07,user_64,True,False
+Airtel data service in Gulu. Average experience.,airtel data service in gulu average experience,data gulu average experience,neutral,2024-10-15,user_65,False,True
+Using MTN pricing in Kampala. Regular service.,using mtn pricing in kampala regular service,use pricing kampala regular,neutral,2024-09-22,user_66,True,False
+MTN pricing in Lira is terrible! Very disappointed!,mtn pricing in lira is terrible very disappointed,pricing lira terrible disappointed,negative,2024-10-09,user_67,True,False
+Very happy with MTN signal in Kampala. Good work!,very happy with mtn signal in kampala good work,happy signal kampala good work,positive,2024-10-19,user_68,True,False
+Airtel data in Mbarara is not working properly. So annoying!,airtel data in mbarara is not working properly so annoying,data mbarara work properly annoying,negative,2024-10-13,user_69,False,True
+Checking Airtel customer service in Fort Portal. Nothing special.,checking airtel customer service in fort portal nothing special,checking customer fort portal nothing special,negative,2024-10-16,user_70,False,True
+Very happy with MTN mobile money in Gulu. Good work!,very happy with mtn mobile money in gulu good work,happy money gulu good work,positive,2024-09-23,user_71,True,False
+MTN network in Kampala is amazing! Keep it up!,mtn network in kampala is amazing keep it up,kampala amazing keep,positive,2024-09-28,user_72,True,False
+Very happy with Airtel mobile money in Lira. Good work!,very happy with airtel mobile money in lira good work,happy money lira good work,positive,2024-10-05,user_73,False,True
+Bad experience with MTN internet in Gulu. Very poor service!,bad experience with mtn internet in gulu very poor service,bad experience internet gulu poor,negative,2024-09-30,user_74,True,False
+Airtel customer service in Kampala is not working properly. So annoying!,airtel customer service in kampala is not working properly so annoying,customer kampala work properly annoying,negative,2024-09-29,user_75,False,True
+MTN coverage in Mbale is okay. Normal performance.,mtn coverage in mbale is okay normal performance,coverage mbale okay normal performance,positive,2024-09-28,user_76,True,False
+Frustrated with Airtel pricing in Lira. Needs improvement!,frustrated with airtel pricing in lira needs improvement,frustrated pricing lira needs improvement,negative,2024-10-15,user_77,False,True
+Very happy with MTN signal in Kampala. Good work!,very happy with mtn signal in kampala good work,happy signal kampala good work,positive,2024-10-12,user_78,True,False
+Bad experience with MTN coverage in Entebbe. Very poor service!,bad experience with mtn coverage in entebbe very poor service,bad experience coverage entebbe poor,negative,2024-10-11,user_79,True,False
+Bad experience with Airtel network in Gulu. Very poor service!,bad experience with airtel network in gulu very poor service,bad experience gulu poor,negative,2024-09-22,user_80,False,True
+MTN internet in Gulu is not working properly. So annoying!,mtn internet in gulu is not working properly so annoying,internet gulu work properly annoying,negative,2024-10-03,user_81,True,False
+Airtel network in Jinja is amazing! Keep it up!,airtel network in jinja is amazing keep it up,jinja amazing keep,positive,2024-10-05,user_82,False,True
+MTN network service in Fort Portal. Average experience.,mtn network service in fort portal average experience,fort portal average experience,neutral,2024-09-24,user_83,True,False
+Great network from MTN in Lira! Excellent service!,great network from mtn in lira excellent service,great lira excellent,positive,2024-09-22,user_84,True,False
+Checking Airtel pricing in Jinja. Nothing special.,checking airtel pricing in jinja nothing special,checking pricing jinja nothing special,negative,2024-10-04,user_85,False,True
+Airtel network in Kampala is okay. Normal performance.,airtel network in kampala is okay normal performance,kampala okay normal performance,positive,2024-09-26,user_86,False,True
+Airtel customer service service in Jinja. Average experience.,airtel customer service service in jinja average experience,customer jinja average experience,neutral,2024-09-25,user_87,False,True
+Airtel internet in Lira is okay. Normal performance.,airtel internet in lira is okay normal performance,internet lira okay normal performance,positive,2024-10-06,user_88,False,True
+Airtel mobile money in Fort Portal is terrible! Very disappointed!,airtel mobile money in fort portal is terrible very disappointed,money fort portal terrible disappointed,negative,2024-10-08,user_89,False,True
+Frustrated with Airtel coverage in Lira. Needs improvement!,frustrated with airtel coverage in lira needs improvement,frustrated coverage lira needs improvement,negative,2024-10-02,user_90,False,True
+Using Airtel signal in Kampala. Regular service.,using airtel signal in kampala regular service,use signal kampala regular,neutral,2024-09-21,user_91,False,True
+Very happy with Airtel data in Jinja. Good work!,very happy with airtel data in jinja good work,happy data jinja good work,positive,2024-09-22,user_92,False,True
+Airtel pricing service in Fort Portal. Average experience.,airtel pricing service in fort portal average experience,pricing fort portal average experience,neutral,2024-10-13,user_93,False,True
+Frustrated with Airtel internet in Jinja. Needs improvement!,frustrated with airtel internet in jinja needs improvement,frustrated internet jinja needs improvement,negative,2024-09-24,user_94,False,True
+Great coverage from Airtel in Entebbe! Excellent service!,great coverage from airtel in entebbe excellent service,great coverage entebbe excellent,positive,2024-10-12,user_95,False,True
+MTN network service in Mbarara. Average experience.,mtn network service in mbarara average experience,mbarara average experience,neutral,2024-09-25,user_96,True,False
+Excellent network experience with MTN in Mbarara. Thank you!,excellent network experience with mtn in mbarara thank you,excellent experience mbarara,positive,2024-09-24,user_97,True,False
+MTN customer service in Jinja is terrible! Very disappointed!,mtn customer service in jinja is terrible very disappointed,customer jinja terrible disappointed,negative,2024-10-07,user_98,True,False
+Frustrated with Airtel customer service in Mbale. Needs improvement!,frustrated with airtel customer service in mbale needs improvement,frustrated customer mbale needs improvement,negative,2024-09-28,user_99,False,True
+Bad experience with MTN pricing in Fort Portal. Very poor service!,bad experience with mtn pricing in fort portal very poor service,bad experience pricing fort portal poor,negative,2024-09-28,user_100,True,False
