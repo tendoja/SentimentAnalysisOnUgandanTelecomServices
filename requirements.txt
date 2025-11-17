@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+wordcloud
+vaderSentiment
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
